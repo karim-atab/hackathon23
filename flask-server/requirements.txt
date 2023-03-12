@@ -1,0 +1,5 @@
+sklearn
+seaborn
+Flask
+gunicorn
+scikit-learn

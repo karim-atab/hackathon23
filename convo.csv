@@ -1,0 +1,22 @@
+ConvoID,CallerID,Script
+01d0889b ,[caller1]," Hello, i need help with my bank account"
+01d0889b ,[caller2]," Hello, yes i can help with that"
+01d0889b ,[caller1], I need to upgrade my current account
+01d0889b ,[caller2], Sure to which package
+01d0889b ,[caller2], Do you need more detials
+01d0889b ,[caller1], To the best current account
+01d0889b ,[caller2], sure will do
+01d0889c ,[caller1]," Hello, i need help with my bank account2"
+01d0889c ,[caller2]," Hello, yes i can help with that2"
+01d0889c ,[caller1], I need to upgrade my current account2
+01d0889c ,[caller2], Sure to which package2
+01d0889c ,[caller2], Do you need more detials2
+01d0889c ,[caller1], To the best current account 2
+01d0889c ,[caller2], sure will do2
+01d0889d ,[caller1]," Hello, i need help with my bank account3"
+01d0889d ,[caller2]," Hello, yes i can help with that3"
+01d0889d ,[caller1], I need to upgrade my current account3
+01d0889d ,[caller2], Sure to which package3
+01d0889d ,[caller2], Do you need more detials3
+01d0889d ,[caller1], To the best current account 3
+01d0889d ,[caller2], sure will do3

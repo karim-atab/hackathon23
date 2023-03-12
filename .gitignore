@@ -1,0 +1,4 @@
+node_modules
+venv/
+flask-server/venv/bin/
+flask-server/venv/lib/

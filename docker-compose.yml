@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  flask-server:
+    build: flask-server
+    command: "flask run --host=0.0.0.0 --port=5000"
+    environment:
+      - FLASK_APP=server.py
+    ports:
+      - "5000:5000"
+
+  client:
+    build: client
+    ports:
+      - '3000:3000'
+    links:
+      - flask-server
+    depends_on:
+      - flask-server
